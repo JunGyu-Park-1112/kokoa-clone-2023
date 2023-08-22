@@ -24,3 +24,7 @@
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.4);
 }
+
+.friends__icon i {
+  color: var(--gray);
+}
