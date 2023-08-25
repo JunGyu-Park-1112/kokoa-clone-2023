@@ -1,4 +1,5 @@
 .badge {
+  font-size: 15px;
   background-color: #ff6229;
   width: 20px;
   height: 20px;
@@ -7,7 +8,7 @@
   align-items: center;
   border-radius: 10px;
   color: white;
-  font-weight: 600;
+  font-weight: 500;
   left: 20px;
   bottom: 20px;
 }
